@@ -1,4 +1,4 @@
-# JetBrains-Academy
+# JetBrains-Academy (Python)
 1. Text-Based Browser: https://hyperskill.org/projects/79
 2. Simple Banking System: https://hyperskill.org/projects/109
 3. Rock-Paper-Scissors: https://hyperskill.org/projects/78
